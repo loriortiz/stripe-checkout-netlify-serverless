@@ -1,13 +1,9 @@
 {
-  "name": "stripe-checkout-netlify-serverless",
+  "name": "functions",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "loriortiz <lori@loriortiz.com>",
-  "license": "ISC",
-  "repository": "git@github.com:lorio/stripe-checkout-netlify-serverless.git"
+  "license": "MIT",
+  "dependencies": {
+    "stripe": "^8.81.0"
+  }
 }
