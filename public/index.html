@@ -3,20 +3,34 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Stripe Checkout + Netlify Functions</title>
+  <title>LiVE Mag! Store</title>
+  <link rel="stylesheet" href="https://use.typekit.net/bkv6oxt.css">
+  <link rel="stylesheet" href="css/reset.css" />
   <link rel="stylesheet" href="css/main.css" />
 </head>
 <body>
-  <header><a href="/" rel="home">Serverless Workflow for Stripe Checkout</a></header>
+  <header class="site-header">
+      <div class="header-inner">
+        <div class="logo">
+          <h1><a href="https://www.livemag.org">LiVE<br>Mag!</a></h1>
+        </div>
+        <div class="subtitle">Mags<br>Merch</div>
+        <ul>
+          <li><a href="https://livemag.org/support/" class="nav">join</a></li>
+          <li><a href="https://livemag.org/about.html" class="nav">about</a></li>
+          <li><a href="https://livemag.org/videos.html" class="nav">videos</a></li>
+          <li><a href="https://livemag.org/reviews.html" class="nav">reviews</a></li>
+        </ul>
+      </div>
+    </header>
   <main>
-    <h1>Buy Our Products!</h1>
+    <h2 class="page-title">Collection</h2>
     <div class="products"></div>
   </main>
-
   <template id="product">
     <div class="product">
       <img src="" alt="" />
-      <h2>name</h2>
+      <h2 class="product-heading">name</h2>
       <p class="description">description</p>
       <p class="price">price</p>
       <form action="" method="post">
@@ -34,7 +48,12 @@
       </form>
     </div>
   </template>
-
+  <footer>
+      <h5>&copy; <script type="text/javascript">
+  document.write(new Date().getFullYear());
+</script> Live Mag! contributors. All rights reserved.  Editor Jeffrey Cyphers Wright</h5>
+</footer>
+   <script src="https://js.stripe.com/v3/"></script>
   <script type="module">
     import { loadProducts } from './js/load-products.js';
     loadProducts();
