@@ -1,4 +1,8 @@
-const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
+const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY, {
+  apiVersion: '2020-03-02',
+  maxNetworkRetries: 2,
+});
+
 const inventory = require('./data/products.json');
 
 exports.handler = async (event) => {

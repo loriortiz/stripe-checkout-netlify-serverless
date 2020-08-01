@@ -164,7 +164,7 @@ main {
 }
 
 .product input {
-  border: 1px solid #2abeff;
+  border: 1px solid rgb(88, 136, 188);
   border-radius: 0.25rem;
   font-size: 1.125rem;
   line-height: 1.25rem;
@@ -172,7 +172,7 @@ main {
 }
 
 .product button {
-  background: #2abeff;
+  background: rgb(88, 136, 188);
   border: none;
   border-radius: 0.25rem;
   color: white;
