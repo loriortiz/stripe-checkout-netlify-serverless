@@ -3,7 +3,47 @@
     "sku": "LM16",
     "name": "LiVE Mag #16",
     "description": "Armageddon, Birch, Bett, Buffon, Burckhardt, Carragon, Chambers, Cyphers, Dailey, Dalachinsky, Goldfarb, Gonzalez, Guibert, Hershon, Keever, King, Knobloch, Kozik, Krieger, LaForge, Lewis, Mann, Martin, Meyer, Morgan, Otomo, Pape, Phipps, Rifka, Saft, Schuster, Shostrom, Slonem, Statman, Wallace, Wallenstein, Warsh",
-    "image": "https://livemag.org/images/no16/default.jpg",
+    "image": "https://store.livemag.org/images/livemag16.jpg",
+    "amount": 1200,
+    "currency": "USD"
+  },
+  {
+    "sku": "LM15",
+    "name": "LiVE Mag #15",
+    "description": "Barone, Batu, Berrigan, Bowman, Brown, Castellanos, Codrescu, Colby, Corrie, Dimanshtein, Equi, Essenhigh, Fire, Haden-Guest, Heffernan, Hochman, Heman, Johnson, Kamenetz, Kolm, Laster, Lelong, Mills, Murphy, Neal, Paci, Park, Peyrafitte, Sarai, Satelite, Sawyer, Scobie, Tate, Tompkins, Torres, Troeller, Wright, Zayden",
+    "image": "https://store.livemag.org/images/livemag15.jpg",
+    "amount": 1200,
+    "currency": "USD"
+  },
+  {
+    "sku": "LM14",
+    "name": "LiVE Mag #14",
+    "description": "Alladice, Allegretti, Awai, Bradford, Burckhardt, Cazzaniga, Chernoff, Chkadua, DeSilva-Johnson, Falls, Fuhrman, Fyman, Godfrey, Gershator, Gosslee, Hammond, Henning, Hershon, Hoover, Horna, Jahmal, Juneau, Keating, Kreienberg, Lawton, Lee, Liu, Lyons, Markley, Mitty, Ortiz, Padel, Pines, Randall, Roskos, Schmidt, Voisine, Youens",
+    "image": "https://store.livemag.org/images/livemag14.jpg",
+    "amount": 1200,
+    "currency": "USD"
+  },
+  {
+    "sku": "LM13",
+    "name": "LiVE Mag #13",
+    "description": "Bastidas, Bijou, Blagg, Bushyeager, Codrescu, Davis, Dean, Diamond, Duhamel+Seaton, Duncan, Essenhigh, Evans, Geiser, Harsley, Hill, Klemperer, King, Kley, Lyons, McClure, Mercado, Mills, Nechvatal, Pfaff, Plotnick, Rothenberg, Schwabsky, Strobert, Van Doren, Wallenstein, Winkfield, Yakovlev, Yuen, Yung",
+    "image": "https://store.livemag.org/images/livemag13.jpg",
+    "amount": 1200,
+    "currency": "USD"
+  },
+  {
+    "sku": "LM12",
+    "name": "LiVE Mag #12",
+    "description": "Bakaitis, Barros, Bealy, Benton, Birch, Cazzaniga, Crash, Crull, Dickson, Don, Friedman, Giorno, Graupe-Pillard, de la Haba, Hansen, Holman, Killian, Kimball, King, Kolm, Marinovich, Marquez, Schnabel, Munk, Pan, Patterson, Phipps, Renzoni, Rose, Shot, Scobie, Snyder, Statman, Topp, Torres, Wright",
+    "image": "https://store.livemag.org/images/livemag12.jpg",
+    "amount": 1200,
+    "currency": "USD"
+  },
+  {
+    "sku": "LM11",
+    "name": "LiVE Mag #11",
+    "description": "Broadbent, Cave, DiFiore, Downs, Field, Haberny, Hartman, Hirose, Indiana, Jacques, Kostos, LeCroy, Leto, Lewis (Mayakovsky), Ling, Markley, McCarty, Miller, Moby, Nduka, Park, Pemberton, Peyton, Pritzker, Prol, Quasha, Rosenthal, Rupp, Seltman, Shapiro, Skillings, Vega, Zighelboim",
+    "image": "https://store.livemag.org/images/livemag11.jpg",
     "amount": 1200,
     "currency": "USD"
   },
@@ -11,7 +51,7 @@
     "sku": "LM10",
     "name": "LiVE Mag! #10",
     "description": "Andre, Ballard, Devaney, Ellison, Fitzgerald, Gardner, Gerkin, Goldfarb, Hiratsuka, Hsiao, Jenks, Jurkovic, Keel, Keever, King, Klein, Kolm, Mazer, Mesches, Milk, Munson, Nessim, Otomo, Perchik, Robinson, Romberger, Rutkowski, Salmanson, Spirit, F. Wright, Yu",
-    "image": "https://livemag.org/images/no10/cover10.jpg",
+    "image": "https://store.livemag.org/images/livemag10.jpg",
     "amount": 1200,
     "currency": "USD"
   },
@@ -19,15 +59,7 @@
     "sku": "LM9",
     "name": "LiVE Mag! #9",
     "description": "Astor, Barros, Bondell, Cannon, Cazzaniga, Cortes, Costan, Cyphers, Deanovich, Evans, Godfrey, Gonzales, Griggs, Hamill, Holman, Kirschenbaum, Koeneke, Lee, Martin, Mesches, Mills, Oisteanu, Porcella, di Prima, Reed, Ricard, Rifka, Ross, Scobie, Sirowitz, Somerville, Stackhouse, Wohl, Yorty",
-    "image": "https://livemag.org/images/livemag9cover.jpg",
-    "amount": 1200,
-    "currency": "USD"
-  },
-  {
-    "sku": "LM5",
-    "name": "LiVE Mag! #5",
-    "description": "Field, Holman, Jones, Irving, Maldonado, Warsh, Statman, Streitfield, Jenks, King, Indiana, Oisteanu, Burk, Wright",
-    "image": "https://store.livemag.org/images/livemag5.jpg",
+    "image": "https://store.livemag.org/images/livemag9.jpg",
     "amount": 1200,
     "currency": "USD"
   },
@@ -36,6 +68,30 @@
     "name": "LiVE Mag! #8",
     "description": "Berkson, Bondell, Dalachinsky, Diamond, Evans, Field, Holman, Indiana, Katz, Kolm, Luna, Otomo, Parrish, Peddle, Ricard, Rifka, Sala, Schnabel, Scobie, Smith, Tabios, Tesser, Toll, Towle, Wright",
     "image": "https://livemag.org/images/livemag8.jpg",
+    "amount": 1200,
+    "currency": "USD"
+  },
+  {
+    "sku": "LM7",
+    "name": "LiVE Mag! #7",
+    "description": "Vega, Cole, Field, Scobie, Ricard, Indiana, Henning, Lemon, Phipps, Berrigan, Katz, Reed, Mills, Wright, Knight, Sparrow, Artemis, Le Croy",
+    "image": "https://livemag.org/images/livemag7.jpg",
+    "amount": 1200,
+    "currency": "USD"
+  },
+  {
+    "sku": "LM6",
+    "name": "LiVE Mag! #6",
+    "description": "Holman, Indiana, Bondell, Oliver, Smith, Katz, Cirelli, Wright, E. Katz, Equi, Ratcliff, Wilson, Prevallet, Wiener",
+    "image": "https://livemag.org/images/livemag6.jpg",
+    "amount": 1200,
+    "currency": "USD"
+  },
+  {
+    "sku": "LM5",
+    "name": "LiVE Mag! #5",
+    "description": "Field, Holman, Jones, Irving, Maldonado, Warsh, Statman, Streitfield, Jenks, King, Indiana, Oisteanu, Burk, Wright",
+    "image": "https://store.livemag.org/images/livemag5.jpg",
     "amount": 1200,
     "currency": "USD"
   },
