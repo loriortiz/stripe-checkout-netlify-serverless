@@ -67,7 +67,7 @@
     "sku": "LM8",
     "name": "LiVE Mag! #8",
     "description": "Berkson, Bondell, Dalachinsky, Diamond, Evans, Field, Holman, Indiana, Katz, Kolm, Luna, Otomo, Parrish, Peddle, Ricard, Rifka, Sala, Schnabel, Scobie, Smith, Tabios, Tesser, Toll, Towle, Wright",
-    "image": "https://livemag.org/images/livemag8.jpg",
+    "image": "https://store.livemag.org/images/livemag8.jpg",
     "amount": 1200,
     "currency": "USD"
   },
@@ -75,7 +75,7 @@
     "sku": "LM7",
     "name": "LiVE Mag! #7",
     "description": "Vega, Cole, Field, Scobie, Ricard, Indiana, Henning, Lemon, Phipps, Berrigan, Katz, Reed, Mills, Wright, Knight, Sparrow, Artemis, Le Croy",
-    "image": "https://livemag.org/images/livemag7.jpg",
+    "image": "https://store.livemag.org/images/livemag7.jpg",
     "amount": 1200,
     "currency": "USD"
   },
@@ -83,7 +83,7 @@
     "sku": "LM6",
     "name": "LiVE Mag! #6",
     "description": "Holman, Indiana, Bondell, Oliver, Smith, Katz, Cirelli, Wright, E. Katz, Equi, Ratcliff, Wilson, Prevallet, Wiener",
-    "image": "https://livemag.org/images/livemag6.jpg",
+    "image": "https://store.livemag.org/images/livemag6.jpg",
     "amount": 1200,
     "currency": "USD"
   },
@@ -99,7 +99,7 @@
     "sku": "LM4",
     "name": "LiVE Mag! #4",
     "description": "Seidman, Brown, Scobie, Oliver, Hershon, Maynard, Hahn, Fyman, Mitchell, Nasdor, Lanham, Sparrow, La Prade, King, Wright, Price, Baraka",
-    "image": "https://livemag.org/images/livemag4.jpg",
+    "image": "https://store.livemag.org/images/livemag4.jpg",
     "amount": 1200,
     "currency": "USD"
   }

@@ -147,10 +147,11 @@ main {
   /* grid-area: products; */
 }
 
-/* .product {} */
-
 .product img {
   max-width: 100%;
+  width: -moz-available;
+  width: 100%;
+  height: auto;
 }
 
 .product-heading {
@@ -166,7 +167,7 @@ main {
 }
 
 .product input {
-  border: 1px solid rgb(88, 136, 188);
+  border: 1px solid teal;
   border-radius: 0.25rem;
   font-size: 1.125rem;
   line-height: 1.25rem;
@@ -174,7 +175,7 @@ main {
 }
 
 .product button {
-  background: rgb(88, 136, 188);
+  background: teal;
   border: none;
   border-radius: 0.25rem;
   color: white;
@@ -220,5 +221,9 @@ footer a {
   .products {
     display: block;
     padding: 0;
+  }
+
+  .product {
+    padding-bottom: 1em;
   }
 }
