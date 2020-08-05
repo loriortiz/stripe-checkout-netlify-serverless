@@ -161,6 +161,10 @@ main {
   width: -moz-available;
   width: 100%;
   height: auto;
+  border: 1px solid #e6e6e6;
+  -webkit-box-shadow: 1px 1px 1px 1px rgba(3, 26, 66, 0.3);
+  -moz-box-shadow: 1px 1px 1px 1px rgba(3, 26, 66, 0.3);
+  box-shadow: 1px 1px 1px 1px rgba(3, 26, 66, 0.3);
 }
 
 .product-heading {
