@@ -81,7 +81,8 @@ body {
   margin: .2em;
 }
 
-.subtitle {
+.subtitle,
+.subtitle a {
   text-align: left;
   font-family: var(--display-font);
   text-decoration: none;
@@ -130,6 +131,10 @@ main {
   width: 90vw;
 }
 
+.success {
+  max-width: 36em;
+}
+
 .page-title {
   font-family: var(--display-font);
   font-size: 1.5em;
@@ -137,6 +142,10 @@ main {
   font-weight: var(--display-font-weight);
   font-style: normal;
   padding-bottom: 0.5em;
+}
+
+.text-link {
+  color: #5888bc;
 }
 
 .products {
