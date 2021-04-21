@@ -1,5 +1,13 @@
 [
   {
+    "sku": "LMSubscribe",
+    "name": "LiVE Mag Subscription",
+    "description": "Subscribers get the current issue (see latest numbered issue on this page) and — as a thank you for your support, a copy of each of the next TWO issues on publication.",
+    "image": "https://store.livemag.org/images/subscribe3.png",
+    "amount": 2500,
+    "currency": "USD"
+  },
+  {
     "sku": "LM17",
     "name": "LiVE Mag #17",
     "description": "Adams, Birch, Church, Codrescu, Conrad, Dalachinsky, Delano, Einstein, Fabricant, Griggs, Hazlewood, Heman, Herceg, Hochman, Holman, Jennings, Jones, Kaufman, Lally, LaPrade, Marquez, Masters, Mesmer, Mills, Nissen, Oji, Padua, Parlato, Plantenga, Rivera, Rosenthal, Rosenbaum, Sanders, Schuchat, Scobie, Swan, Trause, Truitt, Workman, Wright",
