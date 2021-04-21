@@ -1,7 +1,7 @@
 [
   {
     "sku": "LMSubscribe",
-    "name": "LiVE Mag Subscription",
+    "name": "LiVE Mag! Subscription",
     "description": "Subscribers get the current issue (see latest numbered issue on this page) and — as a thank you for your support — a copy of each of the next TWO issues on publication.",
     "image": "https://store.livemag.org/images/subscribe3.png",
     "amount": 2500,
@@ -9,7 +9,7 @@
   },
   {
     "sku": "LM17",
-    "name": "LiVE Mag #17",
+    "name": "LiVE Mag! #17",
     "description": "Adams, Birch, Church, Codrescu, Conrad, Dalachinsky, Delano, Einstein, Fabricant, Griggs, Hazlewood, Heman, Herceg, Hochman, Holman, Jennings, Jones, Kaufman, Lally, LaPrade, Marquez, Masters, Mesmer, Mills, Nissen, Oji, Padua, Parlato, Plantenga, Rivera, Rosenthal, Rosenbaum, Sanders, Schuchat, Scobie, Swan, Trause, Truitt, Workman, Wright",
     "image": "https://store.livemag.org/images/cover17.jpg",
     "amount": 1200,
@@ -17,7 +17,7 @@
   },
   {
     "sku": "LM16",
-    "name": "LiVE Mag #16",
+    "name": "LiVE Mag! #16",
     "description": "Armageddon, Birch, Buffon, Burckhardt, Carragon, Chambers, Cyphers, Dailey, Dalachinsky, Goldfarb, Gonzalez, Guibert, Hershon, Keever, King, Knobloch, Kozik, Krieger, LaForge, Lewis, Mann, Martin, Meyer, Morgan, Otomo, Pape, Phipps, Rifka, Saft, Schuster, Shostrom, Slonem, Statman, Wallace, Wallenstein, Warsh",
     "image": "https://store.livemag.org/images/cover16.jpg",
     "amount": 1200,
@@ -25,7 +25,7 @@
   },
   {
     "sku": "LM15",
-    "name": "LiVE Mag #15",
+    "name": "LiVE Mag! #15",
     "description": "Barone, Batu, Berrigan, Bowman, Brown, Castellanos, Codrescu, Colby, Corrie, Dimanshtein, Equi, Essenhigh, Fire, Haden-Guest, Heffernan, Hochman, Heman, Johnson, Kamenetz, Kolm, Laster, Lelong, Mills, Murphy, Neal, Paci, Park, Peyrafitte, Sarai, Satelite, Sawyer, Scobie, Tate, Tompkins, Torres, Troeller, Wright, Zayden",
     "image": "https://store.livemag.org/images/cover15.jpg",
     "amount": 1200,
@@ -33,7 +33,7 @@
   },
   {
     "sku": "LM14",
-    "name": "LiVE Mag #14",
+    "name": "LiVE Mag! #14",
     "description": "Alladice, Allegretti, Awai, Bradford, Burckhardt, Cazzaniga, Chernoff, Chkadua, DeSilva-Johnson, Falls, Fuhrman, Fyman, Godfrey, Gershator, Gosslee, Hammond, Henning, Hershon, Hoover, Horna, Jahmal, Juneau, Keating, Kreienberg, Lawton, Lee, Liu, Lyons, Markley, Mitty, Ortiz, Padel, Pines, Randall, Roskos, Schmidt, Voisine, Youens",
     "image": "https://store.livemag.org/images/cover14.jpg",
     "amount": 1200,
@@ -41,7 +41,7 @@
   },
   {
     "sku": "LM13",
-    "name": "LiVE Mag #13",
+    "name": "LiVE Mag! #13",
     "description": "Bastidas, Bijou, Blagg, Bushyeager, Codrescu, Davis, Dean, Diamond, Duhamel+Seaton, Duncan, Essenhigh, Evans, Geiser, Harsley, Hill, Klemperer, King, Kley, Lyons, McClure, Mercado, Mills, Nechvatal, Pfaff, Plotnick, Rothenberg, Schwabsky, Strobert, Van Doren, Wallenstein, Winkfield, Yakovlev, Yuen, Yung",
     "image": "https://store.livemag.org/images/cover13.jpg",
     "amount": 1200,
@@ -49,7 +49,7 @@
   },
   {
     "sku": "LM12",
-    "name": "LiVE Mag #12",
+    "name": "LiVE Mag! #12",
     "description": "Bakaitis, Barros, Bealy, Benton, Birch, Cazzaniga, Crash, Crull, Dickson, Don, Friedman, Giorno, Graupe-Pillard, de la Haba, Hansen, Holman, Killian, Kimball, King, Kolm, Marinovich, Marquez, Schnabel, Munk, Pan, Patterson, Phipps, Renzoni, Rose, Shot, Scobie, Snyder, Statman, Topp, Torres, Wright",
     "image": "https://store.livemag.org/images/cover12.jpg",
     "amount": 1200,
@@ -57,7 +57,7 @@
   },
   {
     "sku": "LM11",
-    "name": "LiVE Mag #11",
+    "name": "LiVE Mag! #11",
     "description": "Broadbent, Cave, DiFiore, Downs, Field, Haberny, Hartman, Hirose, Indiana, Jacques, Kostos, LeCroy, Leto, Lewis (Mayakovsky), Ling, Markley, McCarty, Miller, Moby, Nduka, Park, Pemberton, Peyton, Pritzker, Prol, Quasha, Rosenthal, Rupp, Seltman, Shapiro, Skillings, Vega, Zighelboim",
     "image": "https://store.livemag.org/images/cover11.jpg",
     "amount": 1200,
