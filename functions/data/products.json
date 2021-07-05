@@ -1,5 +1,13 @@
 [
   {
+    "sku": "LMBook",
+    "name": "By and By",
+    "description": "Gift a freind or treat yourself to this brand new chapbook of birthday poems by Jeffrey Cyphers Wright. And/or get the chapbook free when you buy a 3-year subscription to LiVE Mag!",
+    "image": "https://store.livemag.org/images/byby.jpg",
+    "amount": 1000,
+    "currency": "USD"
+  },
+  {
     "sku": "LMSubscribe",
     "name": "LiVE Mag! Subscription",
     "description": "A futureproof deal: why not get the current issue #17 AND — as a thank you for your support — a copy of each of the next TWO issues on publication.",
