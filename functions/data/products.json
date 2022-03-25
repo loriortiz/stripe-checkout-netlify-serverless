@@ -1,8 +1,23 @@
-[
+[ {
+    "sku": "LM18",
+    "name": "LiVE Mag! #18",
+    "description": "Akyuz, Arcade, Borkhuis, Burkhart, Casquarelli, Castaner, Cazzaniga, Considine, Damon & Sondheim, DeCapite, Evans, Gonzales, Gruz, Guthrie, Hanrahan, Hatz, Hershon, Karasick, Katz, Kleinbub, Lally, Lee, Marmara, McElheny, Packer, Riley, Roebuk, Sala, Shepard, Tabios, Thacker, Uman, Vincenz, Weber, Wohl, Wright",
+    "image": "https://store.livemag.org/images/cover18.jpg",
+    "amount": 1200,
+    "currency": "USD"
+  },
+  {
+    "sku": "LMBook2",
+    "name": "Mean Poems",
+    "description": "Gift yourself, a freind, or a frenemy. This limited edition volume of cathartic Wright poems will armor anyone who's suffered injustice. Designed by d-Labs, printed on Ingres paper in NYC.",
+    "image": "https://store.livemag.org/images/meanpoems.jpg",
+    "amount": 2500,
+    "currency": "USD"
+  },
   {
     "sku": "LMSubscribe",
     "name": "LiVE Mag! Subscription",
-    "description": "Join our poetry and art-lover's circle with a 2-year SUBSCRIPTION. Go the extra mile and you'll be among the first of our friends to get the new issue, ETA end of March. We'll send our newest 54-page #18 hot off the press.",
+    "description": "Join our poetry and art-lover's circle with a 2-year SUBSCRIPTION. Go the extra mile and you'll be among the first of our friends to get the next issue. We'll send our current 54-page #18 right away.",
     "image": "https://store.livemag.org/images/subscribe2.jpg",
     "amount": 2500,
     "currency": "USD"
