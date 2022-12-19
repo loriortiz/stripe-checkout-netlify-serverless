@@ -16,9 +16,9 @@
   },
   {
     "sku": "LMSubscribe",
-    "name": "LiVE Mag! Subscription",
-    "description": "Join our poetry and art-lover's circle with a 2-year SUBSCRIPTION. Go the extra mile and you'll be among the first of our friends to get the next issue. We'll send our current 54-page #18 right away WITH A BONUS BOOK. We'll invite you to all our events.",
-    "image": "https://store.livemag.org/images/subscribe2.jpg",
+    "name": "Holiday Specials",
+    "description": "Support artists and writers this season with a subscription to LiVE MAG! Pre-order Issue 19 and receive a unique holiday card plus a birthday gift book with your $25. subscription! Order 2 ($50) to receive a limited edition, signed and numbered copy of THE MEAN POEMS with handmade cover.",
+    "image": "https://store.livemag.org/images/yr-end.jpg",
     "amount": 2500,
     "currency": "USD"
   },
