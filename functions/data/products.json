@@ -9,9 +9,17 @@
   {
     "sku": "LMsubscribe2",
     "name": "Subscribe",
-    "description": "We're working on the next printed Mag. Help us bring out #20. Get invited to all our events and get a bonus chapbook as a thank you. We'll send it with #20, hot off the press!",
+    "description": "Join us in our mission to spread cutting edge poetry and art on the web, in print, and in live events! Get invited to all our events and get a bonus chapbook as a thank you. We'll send you our latest: #20, hot off the press!",
     "image": "https://store.livemag.org/images/subscribe2.jpg",
     "amount": 2500,
+    "currency": "USD"
+  },
+  {
+    "sku": "LM20",
+    "name": "LiVE #20",
+    "description": "Bakaitis, Blagg, Coletti, Dailey, De Palma, Eisenman, Elimeliah, Elliot, Equi, Erickson, Harvey, Henning, Katz, Kuwayama, Landers, Lee, CMartin, RMartin, Milder, Muñoz, Newell, Ortiz, Pavlidou, Phipps, Priestly, Prol, Bockris & Resnick, Rondinone, Sanders, Simmons, Vincenz, Yorty, Yuen",
+    "image": "https://store.livemag.org/images/cover20.jpg",
+    "amount": 1200,
     "currency": "USD"
   },
   {
