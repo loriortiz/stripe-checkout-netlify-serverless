@@ -43,7 +43,7 @@ exports.handler = async (event) => {
         name: product.name,
         description: product.description,
         images: [product.image],
-        amount_subtotal: product.amount,
+        amount: product.amount,
         currency: product.currency,
         quantity: validatedQuantity,
       },
