@@ -16,18 +16,41 @@ exports.handler = async (event) => {
     shipping_address_collection: {
       allowed_countries: ['US', 'CA'],
     },
-    success_url: `${process.env.URL}/success.html`,
-    cancel_url: process.env.URL,
+    shipping_options: [
+      {
+      shipping_rate_data: {
+        type: 'fixed_amount',
+        fixed_amount: {
+          amount: 300,
+          currency: 'usd',
+        },
+        display_name: 'USPS Media',
+        delivery_estimate: {
+          minimum: {
+            unit: 'business_day',
+            value: 3,
+          },
+          maximum: {
+            unit: 'business_day',
+            value: 10,
+          },
+        },
+      },
+    },
+  ],
     line_items: [
       {
         name: product.name,
         description: product.description,
         images: [product.image],
-        amount: product.amount,
+        amount_subtotal: product.amount,
         currency: product.currency,
         quantity: validatedQuantity,
       },
     ],
+    mode: 'payment',
+    success_url: `${process.env.URL}/success.html`,
+    cancel_url: process.env.URL,
   });
 
   return {
