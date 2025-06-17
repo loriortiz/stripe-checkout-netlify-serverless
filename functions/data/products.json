@@ -1,7 +1,7 @@
 [{
     "sku": "LMangel",
     "name": "Be an Angel",
-    "description": "We are so appreciative of the angels in our midst. For going above and beyond with us, angel level subscribers are entitled to the latest and next issues plus two books. Thank you!",
+    "description": "We are so appreciative of the angels in our midst. For going above and beyond with us, angel level subscribers are entitled to the latest issue plus two books. Thank you!",
     "image": "https://store.livemag.org/images/angel.jpg",
     "amount": 5000,
     "currency": "USD"
@@ -9,7 +9,7 @@
   {
     "sku": "LMsubscribe2",
     "name": "Subscribe",
-    "description": "Join us in our mission to spread cutting edge poetry and art on the web, in print, and in live events! Get invited to all our events and get a bonus chapbook as a thank you. We'll send you #21 on publication!",
+    "description": "Join us in our mission to spread cutting edge poetry and art on the web, in print, and in live events! Get invited to all our events and get a bonus chapbook as a thank you. We'll send you #21 asap!",
     "image": "https://store.livemag.org/images/subscribe2.jpg",
     "amount": 2500,
     "currency": "USD"
