@@ -23,6 +23,14 @@
     "currency": "USD"
   },
   {
+    "sku": "Book3",
+    "name": "Erato's Inbox",
+    "description": "'An AI-Luminated Manuscript' by Jeffrey Cyphers Wright, designed with Barbara Rosenthal and published by Xanadu Pres. The book is an e-exchange between the muse Erato, Greek goddess of lyric poetry, and her lover. Visually presented with the often charming inscrutiblity of early AI images generated from poetic prompts.",
+    "image": "https://store.livemag.org/images/erato.jpg",
+    "amount": 1500,
+    "currency": "USD"
+  },
+  {
     "sku": "LM20",
     "name": "LiVE #20",
     "description": "Bakaitis, Blagg, Coletti, Dailey, De Palma, Eisenman, Elimeliah, Elliot, Equi, Erickson, Harvey, Henning, Katz, Kuwayama, Landers, Lee, CMartin, RMartin, Milder, Muñoz, Newell, Ortiz, Pavlidou, Phipps, Priestly, Prol, Bockris & Resnick, Rondinone, Sanders, Simmons, Vincenz, Yorty, Yuen",
