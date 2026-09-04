@@ -1,23 +1,31 @@
 [{
     "sku": "LMangel",
     "name": "Be an Angel",
-    "description": "We are so appreciative of the angels in our midst. For going above and beyond with us, angel level subscribers are entitled to the latest issue plus two books. Thank you!",
+    "description": "We are so appreciative of the angels in our midst. For going above and beyond with us, angel level gifts entitle you to the latest issue plus two books. Thank you!",
     "image": "https://store.livemag.org/images/angel.jpg",
     "amount": 5000,
     "currency": "USD"
   },
   {
     "sku": "LMsubscribe2",
-    "name": "Subscribe",
-    "description": "Join us in our mission to spread cutting edge poetry and art on the web, in print, and in live events! Get invited to all our events and get our grand new issue #22 as soon as it is ready in print. Along with a bonus chapbook!",
+    "name": "Celebrate Art & Poetry",
+    "description": "Join us in our mission to spread cutting edge poetry and art on the web, in print, and in live events! Get invited to all our events and get our grand new issue #22 within 10 days. Along with a bonus chapbook!",
     "image": "https://store.livemag.org/images/subscribe2.jpg",
     "amount": 2500,
     "currency": "USD"
   },
   {
+  "sku": "LM22",
+  "name": "LiVE #22",
+  "description": "Adams, Báez, Bishop, Bright, Cazzaniga, Chace, Chambers, Dlaboha, Erickson, Frank, Freeman, gaines, Goldfarb, Griggs, Hamill, Hansen, Henning, Holman, Hoover, Katz, Kunath, Lorber, Murphy, Nduka, Oleszko, Ortiz, Quinn, Rand, Rosenthal, Rosenthal, Sala, Sanders, Sawyer, Scobie, Smith, Sneed, Wallenstein, Wright, Youens",
+  "image": "https://store.livemag.org/images/cover22.jpg",
+  "amount": 1400,
+  "currency": "USD"
+  },
+  {
     "sku": "LM21",
     "name": "LiVE #21",
-    "description": "Alexis, Ari, Codrescu, Cortés, Dennis, Diamond, Fabri, Gibson, Ginko, Godfrey, Hegarty, Hocking, Holman, Hoppe, Keever, Klauber, Lawton, Lewis, Luttrell, Yongbo, McConaughy, Miller, Mills, Nauen, Nduka, Nurkse, Otomo, Phillips, Semmes, Sit, Statman, Taylor, Waldman, Welt, Wolanczyk, Youens, Young",
+    "description": "Alexis, Ari, Codrescu, Božičević, Cortés, Dennis, Diamond, Fabri, Gibson, Ginko, Godfrey, Hegarty, Hocking, Holman, Hoppe, Keever, Klauber, Lawton, Lewis, Luttrell, Yongbo, McConaughy, Miller, Mills, Nauen, Nduka, Nurkse, Otomo, Phillips, Semmes, Sit, Statman, Taylor, Waldman, Welt, Wolanczyk, Youens, Young",
     "image": "https://store.livemag.org/images/cover21.jpg",
     "amount": 1200,
     "currency": "USD"
